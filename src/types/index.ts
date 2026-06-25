@@ -7,6 +7,7 @@ export interface User {
   level: number;
   points: number;
   unlockedRewards: string[];
+  completedQuestions: string[];
 }
 
 export interface Question {
