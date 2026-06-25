@@ -27,7 +27,7 @@ const nextConfig: NextConfig = {
    * Descomente e ajuste se o repositório NÃO for o principal (username.github.io).
    * Exemplo: repo chamado "english-quest" → basePath: "/english-quest"
    */
-   basePath: "/Ingles-show",
+   //basePath: "/Ingles-show",
 
   /*
    * Desativa o Strict Mode em produção se necessário para o protótipo.
