@@ -36,8 +36,7 @@ const defaultQuestions: Question[] = [
       "She no like coffee",
     ],
     correctAnswer: 1,
-    explanation:
-      'A forma correta é "She doesn't like coffee" (terceira pessoa do singular).',
+    explanation: `A forma correta é "She doesn't like coffee" (terceira pessoa do singular).`,
   },
   {
     id: "4",
